@@ -12,5 +12,8 @@ Highlighted features include a user-friendly interface, real-time data updates,
 and advanced visualization tools.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+![IMG_6506](https://github.com/Mufaddalbadani/Sales-Report-Using-PowerBi/assets/62328487/efb6f4e8-fc89-4b34-a54f-345b46167ce7)
+
+
 
     
