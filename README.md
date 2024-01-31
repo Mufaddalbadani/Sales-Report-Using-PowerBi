@@ -1,4 +1,4 @@
-# Sales-Report-Using-PowerBi 
+# Pizza-Sales-Report-Using-PowerBi 
 
 # Purpose and Goal:
 This project is designed to streamline data analysis processes,
