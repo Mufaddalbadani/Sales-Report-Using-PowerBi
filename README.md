@@ -16,4 +16,6 @@ and advanced visualization tools.
 
 
 
+![IMG_6507](https://github.com/Mufaddalbadani/Sales-Report-Using-PowerBi/assets/62328487/a434df2d-665a-40ba-a8fe-5882c2f71c14)
+
     
